@@ -1,5 +1,5 @@
-bitcoin
-solana
-xrp
-cardano
-tezos
+kava
+stacks
+thorchain
+loopring
+gnosis
