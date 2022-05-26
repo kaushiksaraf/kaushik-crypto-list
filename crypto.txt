@@ -1,5 +1,4 @@
 bitcoin
 solana
 xrp
-cardano
-tezos
+
