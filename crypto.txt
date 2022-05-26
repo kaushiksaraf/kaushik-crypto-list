@@ -1,6 +1,5 @@
-Bitcoin
-Ethereum
-tether
-USD coin
-BNB
-
+bitcoin
+solana
+xrp
+cardano
+tezos
