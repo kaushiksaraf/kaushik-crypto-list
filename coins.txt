@@ -3,3 +3,8 @@ etherium
 palkadot
 cardano
 solana
+binance coin
+litecoin
+terra
+ripple's xrp
+usd coin
